@@ -19,4 +19,5 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
     - name: Run script
-      run: python forward_propagation.py
+      run: python exercise2_forward.py
+
